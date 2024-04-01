@@ -41,7 +41,7 @@
 
         // document.addEventListener("DOMContentLoaded", function (e) {
                 // if (e.altKey) {
-                timer = setInterval(f, 200);
+                timer = setInterval(f, 20);
                 // }
             // }
         // );
