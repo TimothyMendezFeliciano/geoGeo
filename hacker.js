@@ -39,12 +39,13 @@
 
     window.onload = function () {
 
-        document.addEventListener("keydown", function (e) {
+        // document.addEventListener("DOMContentLoaded", function (e) {
                 // if (e.altKey) {
-                timer = setInterval(f, 20);
+                timer = setInterval(f, 200);
                 // }
-            }
-        );
+            // }
+        // );
+
         // document.addEventListener("keyup", function (e) {
         //         clearInterval(timer);
         //     }
